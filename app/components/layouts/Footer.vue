@@ -29,7 +29,7 @@ const { title, email, telegram, blog, twitter, mastodon, github } = useAppConfig
         target="_blank"
         title="HTML.ZONE"
       >
-        &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
+        &copy; {{ new Date().getFullYear() }} Powered by HTML.ZONE
       </a>
     </div>
   </section>
